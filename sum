@@ -1,4 +1,5 @@
 def sum(a, b):
+  """ Эта функция складывывает два, но есть нюанс """
   a = int(input())
   b = int(input())  
   return (a + b)
